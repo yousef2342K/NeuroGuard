@@ -48,15 +48,14 @@ NeuroGuard integrates hardware sensors (e.g., BioAmp for EEG/EMG, MAX30102 for H
 
 The design adheres to IEEE Std 1471-2000 and AWS Well-Architected Framework principles.
 
-- **High-Level Views**: See [Data Flow Diagrams (DFD)](docs/dfd.pdf) for context, subsystem, and detailed flows.
-- **Data Models**: [Entity-Relationship Diagram (ERD)](docs/ERD.pdf) outlines schema for user profiles, sensor data, alerts, and logs.
+- **High-Level Views**: See [Data Flow Diagrams (DFD)](diagrams/DFD.pdf) for context, subsystem, and detailed flows.
+- **Data Models**: [Entity-Relationship Diagram (ERD)](diagrams/ERD.png) outlines schema for user profiles, sensor data, alerts, and logs.
 - **UML Diagrams** (in `/diagrams/`):
-  - [Class Diagram](diagrams/class_diagram.png): Core entities and relationships.
-  - [Use Case Diagram](diagrams/use_case.png): Actor interactions (Patient, Caregiver, Admin).
-  - [State Diagram](diagrams/state.png): Device lifecycle (e.g., Idle → Monitoring → Alerting).
-  - [Sequence Diagram](diagrams/sequence.png): Alert escalation workflow.
-  - [Activity Diagram](diagrams/activity.png): End-to-end monitoring process.
-  - [User Flow Diagram](docs/Userflow%20Diagram.pdf): Interaction paths.
+  - [Class Diagram](diagrams/Class%20Diagram.png): Core entities and relationships.
+  - [State Diagram](diagrams/State%20Diagram.png): Device lifecycle (e.g., Idle → Monitoring → Alerting).
+  - [Sequence Diagram](diagrams/Sequence%20Diagram.png): Alert escalation workflow.
+  - [Activity Diagram](diagrams/Activity%20Diagram.png): End-to-end monitoring process.
+  - [User Flow Diagram](diagrams/Userflow%20Diagram.pdf): Interaction paths.
 
 **Architectural Goals Recap**:
 - Scalability to 10,000+ users.
@@ -87,7 +86,6 @@ Detailed canvas: [NeuroGuard Business Model.pdf](docs/NeuroGuard%20Business%20Mo
 ## User Personas
 
 Explore stakeholder needs in `/personas/`:
-
 
 ## Getting Started
 
@@ -171,4 +169,4 @@ Developed in September 2025 for health tech innovation and epilepsy awareness. L
 ---
 
 *NeuroGuard: Empowering Lives Through Predictive Care.*  
-[View SRS](docs/SRS%20NeuroGuard.pdf) | [Explore DFD](docs/dfd.pdf) | [Business Canvas](docs/NeuroGuard%20Business%20Model.pdf)
+[View SRS](docs/SRS%20NeuroGuard.pdf) | [Explore DFD](diagrams/DFD.pdf) | [Business Canvas](docs/NeuroGuard%20Business%20Model.pdf)
