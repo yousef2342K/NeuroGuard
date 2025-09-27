@@ -164,7 +164,7 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) for deta
 ## Contact & Next Steps
 
 For collaborations, clinical trials, or investment inquiries:  
-**Yousef K. (Lead Developer)** - [yousef@example.com](mailto:joekhalid2002@gmail.com) | [LinkedIn](https://linkedin.com/in/yousef2342k)  
+**Yousef K. (Lead Developer)** - [joekhalid2002@gmail.com](mailto:joekhalid2002@gmail.com) | [LinkedIn](https://linkedin.com/in/yousef2342k)  
 
 Developed in September 2025 for health tech innovation and epilepsy awareness. Let's build a safer world together.
 
