@@ -163,7 +163,7 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) for deta
 
 For collaborations, clinical trials, or investment inquiries:  
 **Yousef K. (Lead Developer)** - [joekhalid2002@gmail.com](mailto:joekhalid2002@gmail.com) | [LinkedIn](https://www.linkedin.com/in/youssif-khalid-654b872a5)
-**Yousef K. (Flutter Developer)** - [yomna.yasser357@gmail.com](mailto:yomna.yasser357@gmail.com) | [LinkedIn]([https://www.linkedin.com/in/youssif-khalid-654b872a5](https://www.linkedin.com/in/yomna-yasser-132182296))
+**Yomna Y. (Flutter Developer)** - [yomna.yasser357@gmail.com](mailto:yomna.yasser357@gmail.com) | [LinkedIn](](https://www.linkedin.com/in/yomna-yasser-132182296))
 
 
 Developed in September 2025 for health tech innovation and epilepsy awareness. Let's build a safer world together.
