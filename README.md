@@ -123,7 +123,7 @@ Explore stakeholder needs in `/personas/`:
    # Select ESP32 board, upload
    ```
    Wire sensors per `firmware/README.md`.
-5. **ML Models** (if separate `/ml/` folder):
+5. **ML Models**:
    ```
    cd ml
    pip install -r requirements.txt  # Train/export models
@@ -162,7 +162,9 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) for deta
 ## Contact & Next Steps
 
 For collaborations, clinical trials, or investment inquiries:  
-**Yousef K. (Lead Developer)** - [joekhalid2002@gmail.com](mailto:joekhalid2002@gmail.com) | [LinkedIn](https://linkedin.com/in/yousef2342k)  
+**Yousef K. (Lead Developer)** - [joekhalid2002@gmail.com](mailto:joekhalid2002@gmail.com) | [LinkedIn](https://www.linkedin.com/in/youssif-khalid-654b872a5)
+**Yomna Y. (Flutter Developer)**
+**Mina S. (Hardware Developer)**
 
 Developed in September 2025 for health tech innovation and epilepsy awareness. Let's build a safer world together.
 
